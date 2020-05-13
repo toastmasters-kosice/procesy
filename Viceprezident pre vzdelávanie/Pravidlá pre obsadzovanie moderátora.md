@@ -31,4 +31,4 @@ Pokiaľ má VPE na stretnutí obsadeného a potvrdeného moderátora, jeho hlavn
 
 Posledné slovo ohľadom stretnutia má vždy VPE alebo prezident. Pokiaľ sú v deň stretnutia okolnosti na jeho konanie vážne ohrozené, napr. že nemáme žiadny pripravený prejav, nie je rezervovaná miestnosť, alebo účasť potvrdilo menej ako 5 členov, môže ho zrušiť ako tú najkrajnejšiu možnosť. Kým tak však spraví, mal by si prečítať blog od Lukáša Liebicha o tom, [kedy zrušiť Toastmasters stretnutie](https://lukasliebich.com/2019/12/03/when-to-cancel-a-toastmasters-meeting/) a pokúsiť sa využiť svoje líderské schopnosti na to, aby stretnutie zachránil.
 
-[logo]: https://github.com/toastmasters-kosice/graficke_podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
