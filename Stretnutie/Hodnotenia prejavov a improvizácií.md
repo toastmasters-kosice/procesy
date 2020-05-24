@@ -74,6 +74,7 @@ Táto rola je v mnohom podobná hodnotiteľovi pripraveného prejavu, ale nie je
 
 ### Obsadzovanie roly
 - Rolu si môže vybrať sám člen alebo ju obsadí moderátor stretnutia alebo viceprezident pre vzdelávanie (VPE)
+- Rolu nie je kritické obsadzovať dostatočne dopredu. Stačí, aby bola obsadená najneskôr v deň stretnutia. V krajnom prípade tesne pred začiatkom stretnutia.
 
 ### Práca hodnotiteľa počas improvizácií
 - Hodnotiteľ si robí poznámky ku všetkým improvizáciám. Čím podrobnejšie, tým lepšie. Avšak nemal by stráviť celú dobu iba písaním poznámok - musí sa sústrediť na rečníkov, na ich gestá, očný kontakt, prácu s publikom, prácu s hlasom...
