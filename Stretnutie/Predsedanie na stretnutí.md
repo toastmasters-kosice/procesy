@@ -7,7 +7,9 @@ Tento dokument popisuje, ako by malo vyzerať predsedanie na stretnutiach Toastm
 ## Podmienky na obsadenie roly
 Podľa oficiálnych dokumentov by mal rolu predsedajúceho vždy vykonávať predseda klubu a v jeho neprítomnosti ho má zastúpiť viceprezident pre vzdelávanie. Prezident aj VPE však môžu rolu delegovať aj na iných vedúcich v klube, aby tiež rástli
 
-V našom klube môže vykonávať ktorýkoľvek vedúci, ale dávame príležitosť predsedať na stretnutí aj ďalším členom. Rolu aktuálne obsadzuje moderátor stretnutia. Pokiaľ je neobsadená, stretnutie otvára moderátor.
+V našom klube môže rolu vykonávať ktorýkoľvek vedúci, ale dávame príležitosť predsedať na stretnutí aj ďalším členom. Rolu obsadzuje moderátor stretnutia, avšak môže ju obsadiť aj VPE. Pokiaľ je rola neobsadená, stretnutie otvára moderátor.
+
+> Ak je moderátor súčasne aj predsedajúci, mal by jasne oddeliť predsedanie od jeho úvodnej reči moderátora. Časomerač má inak problém správne zaznamenať čas.
 
 ## Ako by malo predsedanie vyzerať?
 Organizácia Toastmasters International nevytvorila žiadny oficiálny návod, ale vychádzame z článku spomenutého vyššie. Myslíme si, že stretnutia amerických klubov sa najbližšie približujú tomu, ako by to malo vyzerať. Každý klub si samozrejme pravidlá upravuje podľa seba.
