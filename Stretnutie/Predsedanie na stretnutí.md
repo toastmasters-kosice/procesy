@@ -4,7 +4,7 @@
 
 Tento dokument popisuje, ako by malo vyzerať predsedanie na stretnutiach Toastmasters Košice. Vychádza z článku od Roberta Kienzleho, ktorý nájdete [na LinkedIne][article-linkedin] alebo v mierne pozmenenej verzii aj v [časopise Toastmasters][article-tmi].
 
-## Podmienky na obsadenie roly
+## Obsadenie roly
 Podľa oficiálnych dokumentov by mal rolu predsedajúceho vždy vykonávať predseda klubu a v jeho neprítomnosti ho má zastúpiť viceprezident pre vzdelávanie. Prezident aj VPE však môžu rolu delegovať aj na iných vedúcich v klube, aby tiež rástli
 
 V našom klube môže rolu vykonávať ktorýkoľvek vedúci, ale dávame príležitosť predsedať na stretnutí aj ďalším členom. Rolu obsadzuje moderátor stretnutia, avšak môže ju obsadiť aj VPE. Pokiaľ je rola neobsadená, stretnutie otvára moderátor.
