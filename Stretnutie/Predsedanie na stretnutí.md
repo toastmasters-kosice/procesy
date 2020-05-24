@@ -19,7 +19,7 @@ Organizácia Toastmasters International nevytvorila žiadny oficiálny návod, a
 2. Zvolajte začiatok stretnutia a uvítajte zopár vetami členov aj hostí. Dávajte si pozor, aby ste neukradli javisko moderátorovi stretnutia. Moderátor kreatívne uvedie stretnutie a jeho tému. Snažte sa, aby bolo úvodné predsedanie krátke, k veci a týkalo sa záležitostí klubu.
 3. Predstavte organizáciu, pokiaľ máte hostí, ktorí Toastmasters nepoznajú. Vždy nechajte niekoho prečítať misiu Toastmasters.
 4. Predstavte váš klub a to, ako sa líši od ostatných klubov, ak máte hostí, ktorí váš konkrétny klub nepoznajú.
-5. Poproste hostí, aby sa predstavili. Môžete osloviť všetkých hostí, alebo len tých, ktorí prišli prvýkrát - podľa časových možností a počtu hostí. Je dobrý nápad dať im časový limit a tri otázky na zodpovedanie, napríklad "Za 15 alebo menej sekúnd nám povedz naše meno, čím sa živíš a tvoju obľúbenú hudobnú skupinu." Buďte kreatívni.
+5. Poproste hostí, aby sa predstavili. Môžete osloviť všetkých hostí, alebo len tých, ktorí prišli prvýkrát - podľa časových možností a počtu hostí. Je dobrý nápad dať im časový limit a tri otázky na zodpovedanie, napríklad "Za 15 alebo menej sekúnd nám povedz tvoje meno, čím sa živíš a tvoju obľúbenú hudobnú skupinu." Buďte kreatívni.
 6. Požiadajte o oznamy pred začiatkom stretnutia. Ide o veci, ktoré treba povedať pred začiatkom stretnutia, napríklad, že má VPE hárok s dochádzkou, ktorý treba podať ďalej. Obyčajne záležitosti klubu môžu byť povedané na konci stretnutia alebo po prestávke. Nechceme ľudí unudiť s priveľkým množstvom správ.
 7. Spýtajte sa moderátora, či sú v agende nejaké zmeny.
 8. Uveďte rolu moderátora a predstavte moderátora stretnutia.
