@@ -83,6 +83,7 @@ Táto rola je v mnohom podobná hodnotiteľovi pripraveného prejavu, ale nie je
 - Povedzte, čo sa vám na improvizácii páčilo a potom spomeňte jeden-dva tipy na zlepšenie
 - Váš čas je obmedzený. Na zhodnotenie všetkých rečníkov máte len 2 - 4 minúty. Jednému rečníkovi sa nemôžete venovať viac ako minútu. Snažte sa o efektívne hodnotenie a povedzte to podstatné, čo rečníkovi pomôže zlepšiť sa
 - Ak vám už čas vyprší a moderátor vás nenechá hodnotenie dokončiť, po stretnutí môžete osloviť improvizátorov a dať im hodnotenie aspoň dodatočne
+- (voliteľné) Hodnoťte bez použitia poznámok
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [pathways-resources]: https://www.toastmasters.org/resources/resource-library?c=%7B01B94FC3-FC65-4308-8CB2-6193718ED156%7D
