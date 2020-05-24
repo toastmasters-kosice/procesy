@@ -36,7 +36,7 @@ V našom klube si naopak predsedajúci častokrát pripravil úvodný mini-preja
 4. (voliteľné) Ak je čas, požiadajte hostí o ich komentáre po stretnutí.
 5. Oznámte nasledujúce stretnutie, všetkých naňho pozvite a stretnutie odročte. Ak je po stretnutí afterpárty alebo iné podujatie, tiež to môžete oznámiť.
 
-V našom klube bod 2 aktuálne neuplatňujeme a bod 4 uplatňujeme výnimočne. V iných kluboch zvyčajne robia "kolečko" podobne ako na úvode stretnutia a pýtajú sa každého člena, čo sa mu na stretnutí páčilo a čo si odnáša. Zavedenie kolečka bude aj naďalej voliteľné a na rozhodnutí moderátora alebo predsedajúceho.
+V našom klube bod 2 aktuálne neuplatňujeme a bod 4 uplatňujeme výnimočne. V iných kluboch zvyčajne robia "kolečko" podobne ako v úvode stretnutia a pýtajú sa každého člena, čo sa mu na stretnutí páčilo a čo si odnáša. Zavedenie kolečka bude aj naďalej voliteľné a na rozhodnutí moderátora alebo predsedajúceho.
 
 > U online stretnutí by sme sa mali snažiť o skrátenie záveru na minimum. Jedna až tri minúty stačia. Hostia sú už po hodine a pol unavení a nechcú tráviť na stretnutí ďalších 15 minút. Pozvite ich na afterpárty, kde je atmosféra viac uvoľnená a môžete pokračovať v otázkach a diskusiách tam.
 
