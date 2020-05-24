@@ -32,7 +32,7 @@ V našom klube si naopak predsedajúci častokrát pripravil úvodný mini-preja
 > Poznámka: V našom klube stretnutie uzatvára moderátor, v iných kluboch to robí predsedajúci. Každopádne odporúčame riadiť sa nasledujúcimi bodmi.
 1. Poďakujte moderátorovi za prácu a vyzvite ľudí na záverečný potlesk. Ak stretnutie uzatvárate ako moderátor, ignorujte tento bod.
 2. (voliteľné) Opýtajte sa členov klubu, či majú nejaké záležitosti klubu, ktoré chcú predniesť. Uistite sa, že budete viesť všetky podnety, diskusie a hlasovanie (podľa postupov, ktoré si zvolil klub dodržiavať).
-3. Soýtajte sa, či sú nejaké oznamy. Medzi bežné oznamy patria pozvánky na podujatia iných klubov a tiež môže VPE využiť príležitosť, aby sa uistil, že plánovaný moderátor najbližšieho stretnutia súhlasí s moderovaním.
+3. Spýtajte sa, či sú nejaké oznamy. Medzi bežné oznamy patria pozvánky na podujatia iných klubov a tiež môže VPE využiť príležitosť, aby sa uistil, že plánovaný moderátor najbližšieho stretnutia súhlasí s moderovaním.
 4. (voliteľné) Ak je čas, požiadajte hostí o ich komentáre po stretnutí.
 5. Oznámte nasledujúce stretnutie, všetkých naňho pozvite a stretnutie odročte. Ak je po stretnutí afterpárty alebo iné podujatie, tiež to môžete oznámiť.
 
