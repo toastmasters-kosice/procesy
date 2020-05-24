@@ -43,7 +43,7 @@ V našom klube bod 2 aktuálne neuplatňujeme a bod 4 uplatňujeme výnimočne. 
 > U online stretnutí by sme sa mali snažiť o skrátenie záveru na minimum. Jedna až tri minúty stačia. Hostia sú už po hodine a pol unavení a nechcú tráviť na stretnutí ďalších 15 minút. Pozvite ich na afterpárty, kde je atmosféra viac uvoľnená a môžete pokračovať v otázkach a diskusiách tam.
 
 ## Misia klubov Toastmasters
-> Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostný rast.
+> Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.
 > — <cite>[stránka TMI][toastmasters-mission]</cite>
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
