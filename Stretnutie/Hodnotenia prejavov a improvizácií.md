@@ -54,6 +54,7 @@ Na hodnotenie pripraveného prejavu existuje overený spôsob, ktorý odporúča
 - Začnete tým, že predstavíte projekt rečníka. Aký má názov a hlavne, čo bolo cieľom projektu. Inými slovami, poviete, čo idete hodnotiť
 - V ďalšej časti poviete, čo sa vám na prejave páčilo. Môžete citovať aj konkrétne pasáže prejavu, ak ich máte poznačené. Čím konkrétnejší budete, tým lepšie
 - Následujú návrhy na zlepšenie. Žiadny prejav nie je dokonalý a u každého rečníka viete nájsť odporúčania, kam sa vie posunúť. Buďte konkrétni a pokiaľ je to možné, dávajte príklady, ako to má robiť
+- Oznámte rečníkovi, či prejav *splnil* alebo *nesplnil*. Pokiaľ ho nesplnil, povedzte hlavný dôvod a odporučte rečníkovi zopakovať si prejav
 - Na záver vaše hodnotenie zakončite povzbudením rečníka. Môžete zhrnúť niektoré pozitíva do jednej-dvoch viet a následne zakončiť v duchu, že sa tešíte zo zlepšení člena a že sa tešíte na jeho ďalšie prejavy
 - (voliteľné) Hodnoťte bez použitia poznámok
 - (voliteľné) Ak hodnotiteľ člena v klube pozná dlhšie a vníma jeho pokrok, môže to tiež spomenúť v hodnotení. Opäť ideálne konkrétne príklady.
