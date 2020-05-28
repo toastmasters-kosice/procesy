@@ -17,6 +17,8 @@ Aby sa mohol hodnotiteľ kvalitne pripraviť, potrebuje vedieť o tom, že bude 
 - Moderátor stretnutia alebo VPE môže hodnotiteľa preobsadiť, ak má na to dobrý dôvod (napríklad člen s prejavom robí na projekte Evaluation and Feedback II). V takom prípade kontaktuje pôvodného hodnotiteľa a oznámi mu dôvod zmeny
 - Táto rola musí byť obsadzovaná medzi prvými, ideálne do 5 dní pred stretnutím. Ak moderátor nestíha, nech osloví VPE, ktorý mu s tým pomôže.
 
+> Tip: Moderátor môže poprosiť hodnotiteľa o uvedenie rečníka. Hodnotiteľ pozná ciele projektu, tému reči a rozprával sa aj s rečníkom. Takto vieme potenciálne zvýšiť kvalitu stretnutia a moderátor bude mať toho menej na starosti.
+
 ## Povinnosti člena s pripraveným prejavom
 Je v záujme člena s prejavom, aby mal hodnotenie čo najkvalitnejšie a mal by sa aktívne zaujímať o svojho hodnotiteľa.
 
