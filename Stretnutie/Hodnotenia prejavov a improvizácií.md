@@ -45,7 +45,7 @@ V nasledujúcich bodoch si popíšeme prípravu hodnotiteľa. Hodnotiteľa by ma
 - (voliteľné) Hodnotiaci hárok si viete stiahnuť aj sami. V easy-Speaku si vyhľadajte názov projektu rečníka (nachádza sa pod názvom prejavu, napríklad Evaluation and Feedback I) a následne si stiahnite hárok z [tejto stránky][pathways-resources] (pozrite tip vyššie).
 - Preštudujte si hodnotiaci hárok. Ten obsahuje kritériá, ktoré má rečník splniť. Pre vlastnosti prejavu hodnotené na škále 1 - 5 (ako napr. tón hlasu) obsahuje hárok na tretej strane podrobné kritériá, čo má rečník splniť na udelenie jednej až piatich hviezd
 - (voliteľné) Ak vám rečník dodá aj ďalšie podklady, v rámci časových možností si preštudujte aj tie. Pomôžu vám lepšie sa pripraviť. Odporúčame pozrieť hlavne PDF s celým projektom. Je oveľa podrobnejší ako hodnotiaci hárok, ale budete úplne presne vedieť, čo má rečník splniť
-- Ak vás rečník osloví, prediskutujte s ním, čo sú jeho ciele. Budete lepšie vedieť, na čo sa zamerať vo vašom hodnotení (napríklad, rečník chce popracovať na očnom kontakte a preto sa na túto časť viac zameriate)
+- Ak vás rečník osloví, prediskutujte s ním, čo sú jeho ciele. Budete lepšie vedieť, na čo sa zamerať vo vašom hodnotení (napríklad, rečník chce popracovať na očnom kontakte, a preto sa na túto časť viac zameriate)
 - (voliteľné) Ak sa rečník s hodnotiteľom nespojil, hodnotiteľ za ním môže zájsť pred začiatkom stretnutia a aspoň zbežne sa opýtať na jeho ciele a na čo sa zamerať
 
 ### Práca hodnotiteľa počas prejavu
@@ -54,22 +54,24 @@ V nasledujúcich bodoch si popíšeme prípravu hodnotiteľa. Hodnotiteľa by ma
 
 ### Hodnotenie pripraveného prejavu
 Na hodnotenie pripraveného prejavu existuje overený spôsob, ktorý odporúčajú aj v Toastmasters International. Podrobne je popísaný v jednom z projektov, v ktorom sa rozoberá práve hodnotenie prejavov. V krátkosti si popíšeme, ako by to malo vyzerať:
+- Rečníka vždy hodnoťte vzhľadom k cieľom jeho projektu
 - Začnete tým, že predstavíte projekt rečníka. Aký má názov a hlavne, čo bolo cieľom projektu. Inými slovami, poviete, čo idete hodnotiť
 - V ďalšej časti poviete, čo sa vám na prejave páčilo. Môžete citovať aj konkrétne pasáže prejavu, ak ich máte poznačené. Čím konkrétnejší budete, tým lepšie
-- Následujú návrhy na zlepšenie. Žiadny prejav nie je dokonalý a u každého rečníka viete nájsť odporúčania, kam sa vie posunúť. Buďte konkrétni a pokiaľ je to možné, dávajte príklady, ako to má robiť
+- Následujú návrhy na zlepšenie. Odporúčame vám uviesť aspoň 1-2 návrhy. Žiadny prejav nie je dokonalý a u každého rečníka viete nájsť odporúčania, kam sa vie posunúť. Buďte konkrétni a pokiaľ je to možné, dávajte príklady, ako to má robiť
 - Oznámte rečníkovi, či prejav *splnil* alebo *nesplnil*. Pokiaľ ho nesplnil, povedzte hlavný dôvod a odporučte rečníkovi zopakovať si prejav
 - Na záver vaše hodnotenie zakončite povzbudením rečníka. Môžete zhrnúť niektoré pozitíva do jednej-dvoch viet a následne zakončiť v duchu, že sa tešíte zo zlepšení rečníka a že sa tešíte na jeho ďalšie prejavy
 - (voliteľné) Hodnoťte bez použitia poznámok
 - (voliteľné) Ak hodnotiteľ rečníka v klube pozná dlhšie a vníma jeho pokrok, môže to tiež spomenúť v hodnotení. Opäť ideálne konkrétne príklady.
 
 > Na hodnotenie pripraveného prejavu máte vyhradený čas 2 - 3 minúty. Snažte sa ho využiť rozumne a hovorte k veci.
+> Niektoré časti spätnej väzby je dobré povedať rečníkovi medzi štyrmi očami. Dobre zvážte, čo poviete verejne a čo patrí len jemu.
 
 ### Práca hodnotiteľa po prejave
 Práca hodnotiteľa nekončí hodnotením rečníka. Ešte musí vyplniť hodnotiaci hárok a odovzdať ho rečníkovi. V tomto hárku vie napísať podrobnú spätnú väzbu a mal by si dať záležať na tom, aby to spravil poctivo - pomáha rečníkovi zlepšovať sa.
 
-> Každý hodnotiteľ je inokedy sám rečník s pripraveným prejavom. Preto robte vašu úlohu dôkladne. Aj vy chcete, aby vás niekto iný dobre zhodnotil.
+> Každý hodnotiteľ je inokedy sám rečník. Preto robte vašu úlohu dôkladne. Aj vy chcete, aby vás niekto iný dobre zhodnotil.
 
-Hodnotiteľ odovzdá rečníkovi s pripraveným prejavom vyplnený hodnotiaci hárok buď osobne, alebo mu ho pošle e-mailom. Hodnotiteľ by mal odovzdať hárok najneskôr na najbližšom stretnutí, kde bude rečník prítomný. Ak hodnotiteľ hárok neodovzdá, je v záujme rečníka dožadovať sa ho.
+Hodnotiteľ odovzdá rečníkovi vyplnený hodnotiaci hárok buď osobne, alebo mu ho pošle e-mailom. Hodnotiteľ by mal odovzdať hárok najneskôr na najbližšom stretnutí, kde bude rečník prítomný. Ak hodnotiteľ hárok neodovzdá, je v záujme rečníka dožadovať sa ho.
 
 > Tip: Hodnotiaci hárok v PDF viete vyplniť aj elektronicky, vďaka čomu je dobre čitateľný. Ak nemáte platený Adobe Acrobat, existujú aj rôzne bezplatné programy a online služby, napríklad [PDF Escape][pdf-escape].
 
@@ -85,7 +87,7 @@ Táto rola je v mnohom podobná hodnotiteľovi pripraveného prejavu, ale nie je
 
 ### Hodnotenie improvizácií
 - Postupne hodnotíte každého jedného rečníka v improvizáciách. Pred hodnotením spomeňte meno rečníka a voliteľne tiež názov jeho improvizácie, ak to máte v poznámkach
-- Povedzte, čo sa vám na improvizácii páčilo a potom spomeňte jeden-dva tipy na zlepšenie
+- Povedzte, čo sa vám na improvizácii páčilo a potom spomeňte jeden-dva tipy na zlepšenie. Ideálne je hodnotenie, ktoré obsahuje pozitíva k návrhom na zlepšenie v pomere 2:1
 - Váš čas je obmedzený. Na zhodnotenie všetkých rečníkov máte len 2 - 4 minúty. Jednému rečníkovi sa nemôžete venovať viac ako minútu. Snažte sa o efektívne hodnotenie a povedzte to podstatné, čo rečníkovi pomôže zlepšiť sa
 - Ak vám už čas vyprší a moderátor vás nenechá hodnotenie dokončiť, po stretnutí môžete osloviť improvizátorov a dať im hodnotenie aspoň dodatočne
 - (voliteľné) Hodnoťte bez použitia poznámok
