@@ -31,7 +31,7 @@ Je v záujme člena s prejavom, aby mal hodnotenie čo najkvalitnejšie a mal by
 - (voliteľne) Člen nazdieľa hodnotiteľovi PDF celého projektu z Pathways. Nájde ho v otvorenom projekte Pathways v časti `Your Evaluation` pod názvom `Print My Project`, viď obrázok nižšie.
 - (voliteľne) Člen si môže hodnotiteľa vybrať aj sám. V takom prípade osloví hodnotiteľa a ak bude hodnotiteľ súhlasiť, požiada VPE alebo moderátora stretnutia o priradenie hodnotiteľa k jeho prejavu
 
-> Hodnotiaci hárok si vie stiahnuť aj hodnotiteľ, pokiaľ pozná názov projektu rečníka. Všetky hodnotiace hárky nájdete na [stránke Toastmasters International][pathways-resources]. Do vyhľadávacieho poľa zadajte časť alebo celý názov projektu v angličtine.
+> Hodnotiaci hárok si vie stiahnuť aj hodnotiteľ, pokiaľ pozná názov projektu rečníka. Hárky zoradené podľa projektov nájdete prehľadne zoradené v Base Campe a takisto na [stránke Toastmasters International][pathways-resources]. Do vyhľadávacieho poľa zadajte časť alebo celý názov projektu v angličtine.
 
 ![Hodnotiace podklady projektu v Pathways][pathways-eval-resources]
 
