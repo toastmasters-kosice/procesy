@@ -10,42 +10,43 @@ Tento dokument popisuje spôsob obsadzovania hodnotiteľov pripravených prejavo
 ### Obsadzovanie roly
 Aby sa mohol hodnotiteľ kvalitne pripraviť, potrebuje vedieť o tom, že bude hodnotiť aspoň niekoľko dní dopredu, ideálne aspoň týždeň. Prejavy máme obsadzované na dlhé obdobie, ale hodnotiteľov častokrát obsadzujeme na poslednú chvíľu. Ak chceme zvýšiť kvalitu klubu, musíme to zmeniť:
 - Hodnotiteľov bude obsadzovať moderátor stretnutia
-- Môže mu s tým vypomôcť aj viceprezident pre vzdelávanie (VPE), ak ho o to moderátor požiada
+- Pri výbere hodnotiteľa by mal brať ohľad na jeho schopnosti, aby sa nestalo, že nový člen dostane hodnotiť náročný projekt. Ak si výberom moderátor nie je istý, môže osloviť viceprezidenta pre vzdelávanie (VPE), ktorý má o členoch prehľad
+- Viceprezident pre vzdelávanie (VPE) moderátorovi s obsadzovaním pomôže, ak ho o to moderátor požiada
 - VPE sám nevyvíja žiadnu aktivitu. Ak chce urobiť zmeny v hodnotiteľoch, skonzultuje to s moderátorom stretnutia
 - Pokiaľ má člen prejav z projektu Evaluation and Feedback II, VPE alebo moderátor osloví hodnotiteľa jeho prvého prejavu. Tento hodnotiteľ je najvhodnejší na to, aby posúdil zlepšenie. Ak nebude hodnotiteľ súhlasiť alebo nie je dostupný, vtedy ho môže zastúpiť ktokoľvek iný
 - Rolu hodnotiteľa si môže vybrať v easy-Speaku sám člen, pokiaľ ešte nie je nikým obsadená
-- Moderátor stretnutia alebo VPE môže hodnotiteľa preobsadiť, ak má na to dobrý dôvod (napríklad člen s prejavom robí na projekte Evaluation and Feedback II). V takom prípade kontaktuje pôvodného hodnotiteľa a oznámi mu dôvod zmeny
+- Moderátor stretnutia alebo VPE môže hodnotiteľa preobsadiť, ak má na to dobrý dôvod (napríklad rečník robí na projekte Evaluation and Feedback II). V takom prípade kontaktuje pôvodného hodnotiteľa a oznámi mu dôvod zmeny
 - Táto rola musí byť obsadzovaná medzi prvými, ideálne do 5 dní pred stretnutím. Ak moderátor nestíha, nech osloví VPE, ktorý mu s tým pomôže.
 
 > Tip: Moderátor môže poprosiť hodnotiteľa o uvedenie rečníka. Hodnotiteľ pozná ciele projektu, tému reči a rozprával sa aj s rečníkom. Takto vieme potenciálne zvýšiť kvalitu stretnutia a moderátor bude mať toho menej na starosti.
 
-## Povinnosti člena s pripraveným prejavom
-Je v záujme člena s prejavom, aby mal hodnotenie čo najkvalitnejšie a mal by sa aktívne zaujímať o svojho hodnotiteľa.
+## Povinnosti rečníka s pripraveným prejavom
+Je v záujme rečníka, aby mal hodnotenie čo najkvalitnejšie a mal by sa aktívne zaujímať o svojho hodnotiteľa.
 
-- Hodnotiteľa jeho prejavu nájde člen v easy-Speaku niekoľko dní pred stretnutím (viď bod vyššie)
-- Pokiaľ člen hodnotiteľa v easy-Speaku nenájde ani tri dni pred stretnutím, člen osloví VPE a požiada ho o nápravu
-- Člen sa skontaktuje so svojím hodnotiteľom a dodá mu hodnotiaci hárok k projektu. Nájde ho v otvorenom projekte Pathways v časti `Your Evaluation` pod názvom `Evaluation Resource`, viď obrázok nižšie.
-- (voliteľne) Člen hodnotiteľovi povie, v čom sa chce zlepšiť a na aké veci by sa mal hodnotiteľ zamerať vo svojom hodnotení
-- (voliteľne) Člen dodá hodnotiteľovi ďalšie poznámky a oznámi mu čokoľvek, čo by mohlo hodnotiteľovi pomôcť. Napríklad ak člen vie, že jeho prejav prekročí časový limit, mal by to spomenúť a takisto uviesť, prečo ho nedokáže splniť. Akákoľvek informácia hodnotiteľovi pomôže
-- (voliteľne) Člen sprístupní vopred hodnotiteľovi svoj prejav v písomnej forme, ak ho má k dispozícii
-- (voliteľne) Člen nazdieľa hodnotiteľovi PDF celého projektu z Pathways. Nájde ho v otvorenom projekte Pathways v časti `Your Evaluation` pod názvom `Print My Project`, viď obrázok nižšie.
-- (voliteľne) Člen si môže hodnotiteľa vybrať aj sám. V takom prípade osloví hodnotiteľa a ak bude hodnotiteľ súhlasiť, požiada VPE alebo moderátora stretnutia o priradenie hodnotiteľa k jeho prejavu
+- Hodnotiteľa jeho prejavu nájde rečník v easy-Speaku niekoľko dní pred stretnutím (viď bod vyššie)
+- Pokiaľ rečník hodnotiteľa v easy-Speaku nenájde ani tri dni pred stretnutím, rečník osloví VPE a požiada ho o nápravu
+- Rečník sa skontaktuje so svojím hodnotiteľom a dodá mu hodnotiaci hárok k projektu. Nájde ho v otvorenom projekte Pathways v časti `Your Evaluation` pod názvom `Evaluation Resource`, viď obrázok nižšie.
+- (voliteľne) Rečník hodnotiteľovi povie, v čom sa chce zlepšiť a na aké veci by sa mal hodnotiteľ zamerať vo svojom hodnotení
+- (voliteľne) Rečník dodá hodnotiteľovi ďalšie poznámky a oznámi mu čokoľvek, čo by mohlo hodnotiteľovi pomôcť. Napríklad ak rečník vie, že jeho prejav prekročí časový limit, mal by to spomenúť a takisto uviesť, prečo ho nedokáže splniť. Akákoľvek informácia hodnotiteľovi pomôže
+- (voliteľne) Rečník sprístupní vopred hodnotiteľovi svoj prejav v písomnej forme, ak ho má k dispozícii
+- (voliteľne) Rečník nazdieľa hodnotiteľovi PDF celého projektu z Pathways. Nájde ho v otvorenom projekte Pathways v časti `Your Evaluation` pod názvom `Print My Project`, viď obrázok nižšie.
+- (voliteľne) Rečník si môže hodnotiteľa vybrať aj sám. V takom prípade osloví hodnotiteľa a ak bude hodnotiteľ súhlasiť, požiada VPE alebo moderátora stretnutia o priradenie hodnotiteľa k jeho prejavu
 
 > Hodnotiaci hárok si vie stiahnuť aj hodnotiteľ, pokiaľ pozná názov projektu rečníka. Hárky zoradené podľa projektov nájdete prehľadne zoradené v Base Campe a takisto na [stránke Toastmasters International][pathways-resources]. Do vyhľadávacieho poľa zadajte časť alebo celý názov projektu v angličtine.
 
 ![Hodnotiace podklady projektu v Pathways][pathways-eval-resources]
 
 ### Príprava hodnotiteľa pred stretnutím
-Aby hodnotiteľ skutočne posúdil, že člen projekt splnil, musí v prvom rade poznať kritéria daného projektu.
+Aby hodnotiteľ skutočne posúdil, že rečník projekt splnil, musí v prvom rade poznať kritéria daného projektu.
 
-V nasledujúcich bodoch si popíšeme prípravu hodnotiteľa. Hodnotiteľa by mal kontaktovať člen, ktorý si ho vie pozrieť v easy-Speaku.
+V nasledujúcich bodoch si popíšeme prípravu hodnotiteľa. Hodnotiteľa by mal kontaktovať rečník, ktorý si ho vie pozrieť v easy-Speaku.
 
-- (voliteľné) Ak vás neosloví člen s pripraveným prejavom, oslovíte ho vy a vyžiadate si podklady, hlavne hodnotiaci hárok
+- (voliteľné) Ak vás rečník neosloví, oslovíte ho vy a vyžiadate si podklady, hlavne hodnotiaci hárok
 - (voliteľné) Hodnotiaci hárok si viete stiahnuť aj sami. V easy-Speaku si vyhľadajte názov projektu rečníka (nachádza sa pod názvom prejavu, napríklad Evaluation and Feedback I) a následne si stiahnite hárok z [tejto stránky][pathways-resources] (pozrite tip vyššie).
-- Preštudujte si hodnotiaci hárok. Ten obsahuje kritériá, ktoré má člen splniť. Pre vlastnosti prejavu hodnotené na škále 1 - 5 (ako napr. tón hlasu) obsahuje hárok na tretej strane podrobné kritériá, čo má člen splniť na udelenie jednej až piatich hviezd
-- (voliteľné) Ak vám člen dodá aj ďalšie podklady, v rámci časových možností si preštudujte aj tie. Pomôžu vám lepšie sa pripraviť. Odporúčame pozrieť hlavne PDF s celým projektom. Je oveľa podrobnejší ako hodnotiaci hárok, ale budete úplne presne vedieť, čo má člen splniť
-- Ak vás osloví člen s prejavom, prediskutujte s ním, čo sú jeho ciele. Budete lepšie vedieť, na čo sa zamerať vo vašom hodnotení (napríklad, člen chce popracovať na očnom kontakte a preto sa na túto časť viac zameriate)
-- (voliteľné) Ak sa člen s prejavom s hodnotiteľom nespojil, hodnotiteľ za ním môže zájsť pred začiatkom stretnutia a aspoň zbežne sa opýtať na jeho ciele a na čo sa zamerať
+- Preštudujte si hodnotiaci hárok. Ten obsahuje kritériá, ktoré má rečník splniť. Pre vlastnosti prejavu hodnotené na škále 1 - 5 (ako napr. tón hlasu) obsahuje hárok na tretej strane podrobné kritériá, čo má rečník splniť na udelenie jednej až piatich hviezd
+- (voliteľné) Ak vám rečník dodá aj ďalšie podklady, v rámci časových možností si preštudujte aj tie. Pomôžu vám lepšie sa pripraviť. Odporúčame pozrieť hlavne PDF s celým projektom. Je oveľa podrobnejší ako hodnotiaci hárok, ale budete úplne presne vedieť, čo má rečník splniť
+- Ak vás rečník osloví, prediskutujte s ním, čo sú jeho ciele. Budete lepšie vedieť, na čo sa zamerať vo vašom hodnotení (napríklad, rečník chce popracovať na očnom kontakte a preto sa na túto časť viac zameriate)
+- (voliteľné) Ak sa rečník s hodnotiteľom nespojil, hodnotiteľ za ním môže zájsť pred začiatkom stretnutia a aspoň zbežne sa opýtať na jeho ciele a na čo sa zamerať
 
 ### Práca hodnotiteľa počas prejavu
 - Hodnotiteľ sa snaží pozorne sledovať rečníka, pričom sa predovšetkým zameriava na kritéria uvedené na prvej strane hodnotiaceho hárku a v druhom rade na veci, u ktorých mu rečník spomenul, že na nich pracuje, a chce mať podrobné hodnotenie (napr. očný kontakt)
@@ -57,9 +58,9 @@ Na hodnotenie pripraveného prejavu existuje overený spôsob, ktorý odporúča
 - V ďalšej časti poviete, čo sa vám na prejave páčilo. Môžete citovať aj konkrétne pasáže prejavu, ak ich máte poznačené. Čím konkrétnejší budete, tým lepšie
 - Následujú návrhy na zlepšenie. Žiadny prejav nie je dokonalý a u každého rečníka viete nájsť odporúčania, kam sa vie posunúť. Buďte konkrétni a pokiaľ je to možné, dávajte príklady, ako to má robiť
 - Oznámte rečníkovi, či prejav *splnil* alebo *nesplnil*. Pokiaľ ho nesplnil, povedzte hlavný dôvod a odporučte rečníkovi zopakovať si prejav
-- Na záver vaše hodnotenie zakončite povzbudením rečníka. Môžete zhrnúť niektoré pozitíva do jednej-dvoch viet a následne zakončiť v duchu, že sa tešíte zo zlepšení člena a že sa tešíte na jeho ďalšie prejavy
+- Na záver vaše hodnotenie zakončite povzbudením rečníka. Môžete zhrnúť niektoré pozitíva do jednej-dvoch viet a následne zakončiť v duchu, že sa tešíte zo zlepšení rečníka a že sa tešíte na jeho ďalšie prejavy
 - (voliteľné) Hodnoťte bez použitia poznámok
-- (voliteľné) Ak hodnotiteľ člena v klube pozná dlhšie a vníma jeho pokrok, môže to tiež spomenúť v hodnotení. Opäť ideálne konkrétne príklady.
+- (voliteľné) Ak hodnotiteľ rečníka v klube pozná dlhšie a vníma jeho pokrok, môže to tiež spomenúť v hodnotení. Opäť ideálne konkrétne príklady.
 
 > Na hodnotenie pripraveného prejavu máte vyhradený čas 2 - 3 minúty. Snažte sa ho využiť rozumne a hovorte k veci.
 
@@ -68,7 +69,7 @@ Práca hodnotiteľa nekončí hodnotením rečníka. Ešte musí vyplniť hodnot
 
 > Každý hodnotiteľ je inokedy sám rečník s pripraveným prejavom. Preto robte vašu úlohu dôkladne. Aj vy chcete, aby vás niekto iný dobre zhodnotil.
 
-Hodnotiteľ odovzdá členovi s pripraveným prejavom vyplnený hodnotiaci hárok buď osobne, alebo mu ho pošle e-mailom. Hodnotiteľ by mal odovzdať hárok najneskôr na najbližšom stretnutí, kde bude člen prítomný. Ak hodnotiteľ hárok neodovzdá, je v záujme člena dožadovať sa ho.
+Hodnotiteľ odovzdá rečníkovi s pripraveným prejavom vyplnený hodnotiaci hárok buď osobne, alebo mu ho pošle e-mailom. Hodnotiteľ by mal odovzdať hárok najneskôr na najbližšom stretnutí, kde bude rečník prítomný. Ak hodnotiteľ hárok neodovzdá, je v záujme rečníka dožadovať sa ho.
 
 > Tip: Hodnotiaci hárok v PDF viete vyplniť aj elektronicky, vďaka čomu je dobre čitateľný. Ak nemáte platený Adobe Acrobat, existujú aj rôzne bezplatné programy a online služby, napríklad [PDF Escape][pdf-escape].
 
