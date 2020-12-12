@@ -11,7 +11,6 @@ Hlavnou úlohou zberača slovnej vaty je počítať a zaznamenať nasledovnú sl
 - barličkové slová, 
 - (pa)zvuky (hm, em, mm), 
 - predlžovanie poslednej slabiky slova pri hľadaní ďalšej myšlienky (aaa, takžeee, ...)
-- príliš dlhé pauzy
 ...
 
 ## Potrebné vybavenie
