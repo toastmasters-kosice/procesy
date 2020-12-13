@@ -4,7 +4,7 @@
 Hodnotenia sú neoddeliteľnou súčasťou vzdelávania v Toastmasters. Ako hodnotitelia sa snažíte pozorne sledovať prejavy ostatných členov a následne ich zhodnotíte. Inokedy budú zase oni hodnotiť vás.
 
 ## Prečo je rola dôležitá?
-**Touto rolou sa zlepšuje vaše aktívne počúvanie, kritické myslenie a tiež sa zlepšujú vaše zručnosti v dávaní pozitívnej spätnej väzby.** Zároveň je to nevýhnutná rola pre správny priebeh stretnutia. Každý rečník si musí uvedomovať, že dostal na pódiu priestor len na istý, presne daný čas. Tento čas by mal využiť čo najefektívnejšie.
+**Touto rolou sa zlepšuje vaše aktívne počúvanie, kritické myslenie a tiež sa zlepšujú vaše zručnosti v dávaní pozitívnej spätnej väzby.** Oproti hodnoteniam pripravených prejavov je táto rola ťažšia v tom, že nemáte toľko času dopredu sa na hodnotenie pripraviť a hodnotíte piatich rečníkov namiesto jedného. Časom sa naučíte rýchlo a efektívne rozhodovať a sústrediť sa na to, čo je podstatné.
 
 ## Počas prejavu
 - Snažte sa pozorne sledovať a počúvať rečníkov
