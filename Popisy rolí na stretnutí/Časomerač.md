@@ -23,7 +23,7 @@ Na niektoré body sa teraz pozrieme podrobnejšie.
 
 > Poznámka: Pri online stretnutiach kartičky k dispozícii nemáte. Skúste improvizovať. Môžete na kameru ukazovať farebné papiere, využiť virtuálne pozadie v Zoome, alebo si môžete vymyslieť niečo iné.
 
-## Meranie času roliam
+## Meranie času rolám
 - Vašou hlavnou úlohou je merať rečníkom čas. Každý rečník má vyhradený čas - spodný limit, stredný a horný. Je uvedený v agende stretnutia u každej položky. Napríklad: 5:00 6:00 7:00
 - Po dosiahnutí času 5:00 ukážete rečníkovi zelenú kartičku, v čase 6:00 žltú a v čase 7:00 červenú kartičku
 - Za nedodržanie časového limitu považujeme to, ak rečník skončí pod spodným limitom (v tomto prípade 5:00) alebo prekročí horný limit (7:00) o viac ako 30 sekúnd. V takomto prípade môže moderátor prejav prerušiť
