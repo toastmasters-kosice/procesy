@@ -6,7 +6,7 @@ Jednou zo zručností, ktorú v Toastmasters trénujeme, je schopnosť vyjadriť
 ## Prečo je rola dôležitá?
 **Touto rolou sa zlepšia vaše zručnosti v oblasti časového manažmentu.** Zároveň je to nevýhnutná rola pre správny priebeh stretnutia. Každý rečník si musí uvedomovať, že dostal na pódiu priestor len na istý, presne daný čas. Tento čas by mal využiť čo najefektívnejšie.
 
-## Čo všetko je mojou úlohou?
+## Čo všetko je vašou úlohou?
 Ako časomerač:
 - Dostanete signalizačné kartičky. Sú tri: zelená, žltá a červená
 - Tieto kartičky počas stretnutia ukazujete rečníkovi a on tak získa približnú informáciu o tom, koľko času využil
@@ -21,10 +21,10 @@ Na niektoré body sa teraz pozrieme podrobnejšie.
 - Ako alternatívu môžete použiť oficiálnu Android/iOS aplikáciu Toastmasters International. Príslušná farba sa zobrazí na obrazovke vášho telefónu
 - Na meranie času môžete využiť vyššie spomenutú aplikáciu alebo akýkoľvek iný prostriedok, napríklad stopky v hodinkách
 
-> Poznámka: Pri online stretnutiach kartičky k dispozícii nemáte. Skúste improvizovať. Môžete na kameru ukazovať farebné papiere, využiť virtuálne pozadie v Zoome, alebo si môžete vymyslieť niečo ďalšie.
+> Poznámka: Pri online stretnutiach kartičky k dispozícii nemáte. Skúste improvizovať. Môžete na kameru ukazovať farebné papiere, využiť virtuálne pozadie v Zoome, alebo si môžete vymyslieť niečo iné.
 
 ## Meranie času roliam
-- Vašou hlavnou úlohou je merať rečníkom čas. Každý rečník má vyhradený čas - Spodný limit, stredný a horný. Je uvedený v agende stretnutia u každej položky. Napríklad: 5:00 6:00 7:00
+- Vašou hlavnou úlohou je merať rečníkom čas. Každý rečník má vyhradený čas - spodný limit, stredný a horný. Je uvedený v agende stretnutia u každej položky. Napríklad: 5:00 6:00 7:00
 - Po dosiahnutí času 5:00 ukážete rečníkovi zelenú kartičku, v čase 6:00 žltú a v čase 7:00 červenú kartičku
 - Za nedodržanie časového limitu považujeme to, ak rečník skončí pod spodným limitom (v tomto prípade 5:00) alebo prekročí horný limit (7:00) o viac ako 30 sekúnd. V takomto prípade môže moderátor prejav prerušiť
 - U každého rečníka si poznačte jeho čas. Spomeniete ho vo vašom záverečnom hodnotení
