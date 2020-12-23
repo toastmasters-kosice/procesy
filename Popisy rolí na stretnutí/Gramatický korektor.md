@@ -7,8 +7,6 @@ Učí ťa aktívne počúvať a byť vnímavým na gramatické prešľapy. Tiež
 
 > Tip: Svoju rolu vieš obohatiť o slovo dňa, ktorého význam vysvetlíš (povieš ako sa správne skloňuje a časuje). Ak ho niekto použije počas stretnutia, môžeš ho na konci odmeniť napríklad cukríkom.
 
-**Touto rolou sa zlepšia vaše zručnosti v oblasti časového manažmentu.** Zároveň je to nevýhnutná rola pre správny priebeh stretnutia. Každý rečník si musí uvedomovať, že dostal na pódiu priestor len na istý, presne daný čas. Tento čas by mal využiť čo najefektívnejšie.
-
 ## Čo všetko hodnotíš?
 - Gramatiku
 - Výslovnosť
