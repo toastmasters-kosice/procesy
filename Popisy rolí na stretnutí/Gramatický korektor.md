@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-# Časomerač
+# Gramatický korektor
 
 ## Prečo je rola dôležitá?
 Učí ťa aktívne počúvať a byť vnímavým na gramatické prešľapy. Tiež sa vďaka nej naučíš dávať spätnú väzbu.
