@@ -21,7 +21,7 @@ Používaš tabuľku, ktorá je k dispozícii medzi pomôckami. Značíš si do 
 ## Na konci stretnutia
 Zhodnotíš rečníkov menovite aj s ich prešľapmi.
 
-## Tipy (a odporúčania) na záver:
+## Tipy:
 Správnosť tvarov/skloňovanie si vieš overiť počas prestávky na internete v mobile.
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
