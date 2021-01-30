@@ -23,4 +23,4 @@ Snaž sa pozorne sledovať a počúvať rečníkov:
 - Tvoj čas je obmedzený. Na zhodnotenie všetkých rečníkov máš len 2-4 minúty. Čas sa pokús rozložiť si rovnomerne (pozn. pretože improvizácií môže byť aj 7-8).
 - Ak ti už čas vyprší a moderátor ťa nenechá hodnotenie dokončiť, po stretnutí môžeš osloviť improvizátorov a dať im hodnotenie aspoň dodatočne. 
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"

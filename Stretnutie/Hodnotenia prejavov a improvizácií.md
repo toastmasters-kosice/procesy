@@ -94,7 +94,7 @@ Táto rola je v mnohom podobná hodnotiteľovi pripraveného prejavu, ale nie je
 
 > Na hodnotenie improvizácií máte vyhradený čas 2 - 4 minúty. Snažte sa ho využiť rozumne a hovorte k veci. Žiadneho rečníka nehodnoťte dlhšie ako minútu, nemuseli by ste stihnúť zhodnotiť všetkých.
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [pathways-resources]: https://www.toastmasters.org/resources/resource-library?c=%7B01B94FC3-FC65-4308-8CB2-6193718ED156%7D
-[pathways-eval-resources]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Sn%C3%ADmky%20obrazovky/Pathways/pathways-project-resources.png
+[pathways-eval-resources]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Sn%C3%ADmky%20obrazovky/Pathways/pathways-project-resources.png
 [pdf-escape]: https://www.pdfescape.com/

@@ -30,4 +30,4 @@
 - Časomerač by mal tiež spomenúť, ako sme dodržali časový plán agendy. Teda: "Začali sme s trojminútovým meškaním... Prestávka trvala o minútu dlhšie... atď."
 - Časomerač má zvyčajne vyhradený priestor 1 - 3 minúty a je na ňom, aby ho využil optimálne. Môže napríklad spomenúť, prečo je dôležité, aby rečníci dodržiavali určený čas
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"

@@ -46,7 +46,7 @@ V našom klube bod 2 aktuálne neuplatňujeme a bod 4 uplatňujeme výnimočne. 
 > Poskytujeme podporné a pozitívne prostredie, v ktorom členom umožňujeme rozvinúť v sebe rečnícke a líderské zručnosti, čím získajú väčšie sebavedomie a osobnostne rastú.
 > — <cite>[stránka TMI][toastmasters-mission]</cite>
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [article-linkedin]: https://www.linkedin.com/pulse/when-you-chairperson-toastmasters-meeting-robert-kienzle/
 [article-tmi]: https://www.toastmasters.org/Magazine/Magazine-Issues/2016/Nov2016/Role
 [toastmasters-mission]: https://www.toastmasters.org/about/our-mission
